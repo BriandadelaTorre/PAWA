@@ -1,0 +1,7 @@
+# Archivo que especifica 
+# Que sera ignorado en el 
+# repositorio
+
+# Ignorando carpetas
+# Llamadas Node_Module
+node_modules
